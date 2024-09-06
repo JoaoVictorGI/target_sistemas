@@ -1,7 +1,7 @@
 # Target Sistemas
 
 O projeto está usando bun para rodar typescript nativamente.
-Você pode baixar o [aqui](https://bun.sh)
+Você pode baixar o Bun [aqui](https://bun.sh)
 
 Fiz alguns scripts para rodar as questões e um .env para escolher os valores.
 
