@@ -1,0 +1,16 @@
+{
+  "name": "target_sistemas",
+  "module": " ",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "fib": "bun run q1_fibonacci/fib.ts",
+    "string": "bun run q2_string/string.ts",
+    "questao3": "bun run q3/index.ts"
+  }
+}
