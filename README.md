@@ -21,3 +21,5 @@ bun string
 ```shell
 bun questao3
 ```
+
+* As outras questões são só arquivos de texto com a solução
